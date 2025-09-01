@@ -1,0 +1,16 @@
+{
+	"version": "1.0.0",
+	"layername": "test",
+	"fileextension": ".kml",
+	"displayform": "collada",
+	"minLodPixels": 0,
+	"maxLodPixels": -1,
+	"colnum": 1,
+	"rownum": 1,
+	"bbox":{ 
+		"xmin": 19.06186533629699,
+		"xmax": 19.121002969519054,
+		"ymin": 50.22925231780832,
+		"ymax": 50.291514332763015
+	}
+}
